@@ -27,7 +27,7 @@ matrix:
     
 
  
-build_image: shippable/minv2:beta
+
 
 before_install:
   - gem update --system #  todo: workaround for https://github.com/rubygems/rubygems/pull/763
